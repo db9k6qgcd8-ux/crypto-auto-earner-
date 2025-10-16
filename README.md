@@ -1,2 +1,1 @@
-# crypto-auto-earner-
-Automatic crypto earning website with auto-payouts
+github.com/db9k6qgcd8-ux/crypto-auto-earner
